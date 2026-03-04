@@ -32,7 +32,7 @@ Como um projeto focado em **Clean Code** e **Performance**, o código segue padr
    git clone [https://github.com/Sergio0203/Defending-the-Math.git](https://github.com/Sergio0203/Defending-the-Math.git)
    ```
 2. Abra o arquivo `.xcodeproj` no **Xcode**.
-3. Selecione o simulador de iPhone (iOS 16.0+).
+3. Selecione o simulador de iPad - 11 inch (para melhor experiência).
 4. Pressione `Cmd + R` para buildar.
 
 ##🎓 Contexto Acadêmico
