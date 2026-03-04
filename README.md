@@ -1,6 +1,4 @@
-COPIE A PARTIR DA LINHA ABAIXO
----------------------------------------------------------
-🛡️ Defending the Math
+Defending the Math
 
 ![Swift](https://img.shields.io/badge/Swift-5.0+-orange?style=for-the-badge&logo=swift)
 ![Framework](https://img.shields.io/badge/Framework-SpriteKit-red?style=for-the-badge&logo=apple)
