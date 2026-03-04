@@ -39,7 +39,7 @@ Como um projeto focado em **Clean Code** e **Performance**, o código segue padr
 
 ##🎓 Contexto Acadêmico
 
-Este projeto faz parte da minha jornada na **Apple Developer Academy**, aplicando conceitos de:
+Este projeto faz parte da minha jornada na **Swift Student Challenge**, aplicando conceitos de:
 - Desenvolvimento Ágil.
 - Prototipagem rápida de jogos.
 - User-Centered Design (UCD).
